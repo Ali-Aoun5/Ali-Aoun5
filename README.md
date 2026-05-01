@@ -50,8 +50,8 @@ A conflict misinformation early warning system that monitors 20 global news sour
 
 ## 💻 Tools & Technologies
 
-- **Languages:** `Python` | `C++` | `JavaScript` | `SQL`
-- **AI / ML:** `PyTorch` | `TensorFlow` | `OpenCV` | `Scikit-learn` | `LLMs`
-- **Data Systems:** `Qdrant` | `Apify` | `Vector Search` | `Semantic Embeddings`
-- **Cloud / DevOps:** `AWS` | `Docker` | `CI/CD` | `GitHub Actions` | `HuggingFace`
-- **Frontend & APIs:** `React` | `Node.js` | `D3.js` | `FastAPI`
+- **Languages:** `Python` | `C++` | `JavaScript` | `TypeScript` | `SQL` | `Bash`
+- **AI / LLM Ecosystem:** `PyTorch` | `TensorFlow` | `Google AI Studio` | `Featherless AI` | `HuggingFace` | `LangChain` | `sentence-transformers` | `OpenCV` | `Scikit-learn`
+- **Data & Semantic Search:** `Qdrant` | `Apify` | `Antigravity` | `Vector Search` | `Semantic Embeddings`
+- **Cloud & DevOps:** `AWS` | `GCP` | `Docker` | `Linux` | `CI/CD` | `GitHub Actions` | `Serverless`
+- **Frontend & APIs:** `FastAPI` | `React` | `Node.js` | `D3.js` | `REST APIs`
